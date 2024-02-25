@@ -25,6 +25,7 @@ This is my personal portfolio website created using HTML, CSS, and JavaScript. I
 3. Explore different sections, hover over elements, and download the CV.
 
 ## Screenshots
+![Screenshot 2024-02-25 181155](https://github.com/abhi-up/Animated-Portfolio/assets/77201101/50f09f1b-ffd8-44f2-a5f2-564ac0c21f8b)
 
 ## Contributing
 
