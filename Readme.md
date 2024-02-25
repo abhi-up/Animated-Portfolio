@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# Personal Portfolio Website ✨
 
 This is my personal portfolio website created using HTML, CSS, and JavaScript. It features an animated loading screen, dynamic cursor changes on hover, a CV download option, and sections for about, contact, and projects.
 
